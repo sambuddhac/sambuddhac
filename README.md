@@ -9,6 +9,11 @@
 
 ---
 
+<!-- Typing Animation Divider -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="typing animation divider" width="300" />
+</p>
+
 <!-- Fun, Interactive About Me -->
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="170" align="right" />
@@ -71,8 +76,3 @@
 - ⚡ Fun fact: I am a music aficionado and play the Sitar and Bandoneon when I am taking a break.
 
 ---
-
-<!-- Animated SVG Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sambuddhac/sambuddhac/main/assets/wave.svg" alt="wave divider" width="100%" />
-</p>
